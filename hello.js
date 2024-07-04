@@ -1,4 +1,4 @@
-const hello = () => "Hello World prueba de Alvaro Ovando!";
+const hello = () => "Cambio saludo Alvaro Ovando";
 console.log(hello());
 exports.hello = hello;
 
